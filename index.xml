@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>しょくぱにすと</title>
+    <link>https://syokupanist.net/</link>
+    <description>Recent content on しょくぱにすと</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2019 23:20:43 +0900</lastBuildDate>
+    
+	<atom:link href="https://syokupanist.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://syokupanist.net/projects/</link>
+      <pubDate>Thu, 14 Nov 2019 23:20:43 +0900</pubDate>
+      
+      <guid>https://syokupanist.net/projects/</guid>
+      <description>主に趣味で公開しているサービスを紹介
+Cube Solver 僕自身、スピードキューバーでもあるので、布教したい思いで、 ルービックキューブの解法表示アプリを制作し、公開している。
+webアプリ版 ルービックキューブ攻略サイト「Cube Solver」
+Androidアプリ版 キューブ・ソルバー 〜解き方表示！誰でも簡単に六面完成〜
+Minimalist Diary ひたすらにシンプルな日記アプリが欲しかったので制作した。 単なるメモアプリではなく、あたかも日記を書いているような体験を味わえるという点がアピールポイント。 手書き風のフォントとペーパー風のデザインなので、アプリだけどだんだん愛着が沸いてくる。そんな日記アプリです。
+ミニマリストのための日記アプリ</description>
+    </item>
+    
+    <item>
+      <title>Skill</title>
+      <link>https://syokupanist.net/skill/</link>
+      <pubDate>Thu, 14 Nov 2019 23:20:07 +0900</pubDate>
+      
+      <guid>https://syokupanist.net/skill/</guid>
+      <description> 機械学習モデル開発、webバックエンド、フロントエンドまで、一連の機能を実装する、自称フルスタックエンジニア。
+得意技術領域  機械学習  画像分類、画像生成、画風変換 tensorflow, keras  レコメンドシステム構築  アルゴリズム 協調フィルタリング 行列分解系モデル ニューラルネットワーク系モデル  サービス機能開発のPDCA  施策提案、要件定義、実装、効果測定、データ分析   プログラミング言語  python  機械学習、webサーバー  javascript  vue.js  php  フレームワークなし  android  android5あたりの時まで触っていた  go  apiサーバー  java  趣味や大学の講義で触れた程度  c/c++ ruby  railsでwebアプリ制作   </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://syokupanist.net/about/</link>
+      <pubDate>Thu, 14 Nov 2019 23:20:01 +0900</pubDate>
+      
+      <guid>https://syokupanist.net/about/</guid>
+      <description>プログラミングが好きで、作りたいものを思いついたら衝動的に実装してしまう。 人に使ってもらえるプロダクトを作れて一人前だと思っているので、自己満足にならない開発を意識している。 最近は、気になる機械学習の理論の勉強や、論文の再実装とかすることが多い。
+経歴 ベンチャー企業勤務 ITエンジニア (2017.4 ~ 現在) とある大規模webサービスの機能開発、改善に携わる。 機械学習を使ったレコメンド機能の開発から、webバックエンドへの組み込み、フロントUIの実装まで一貫して担当。
+東京工業大学工学部情報工学科 (2013.4 ~ 2017.3) コンピュータサイエンスについて学んだ。</description>
+    </item>
+    
+  </channel>
+</rss>
