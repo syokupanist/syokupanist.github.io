@@ -6,7 +6,7 @@
     <description>Recent content on しょくぱにすと</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2019 23:20:43 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2020 14:43:43 +0900</lastBuildDate>
     
 	<atom:link href="https://syokupanist.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,15 +14,26 @@
     <item>
       <title>Projects</title>
       <link>https://syokupanist.net/projects/</link>
-      <pubDate>Thu, 14 Nov 2019 23:20:43 +0900</pubDate>
+      <pubDate>Sun, 16 Feb 2020 14:43:43 +0900</pubDate>
       
       <guid>https://syokupanist.net/projects/</guid>
-      <description>主に趣味で公開しているサービスを紹介
-Cube Solver 僕自身、スピードキューバーでもあるので、布教したい思いで、 ルービックキューブの解法表示アプリを制作し、公開している。
-webアプリ版 ルービックキューブ攻略サイト「Cube Solver」
+      <description>プライベートで開発した物をご紹介します。
+職歴や業務経験に関しては、こちらのページをご覧ください。
+会社の仕事とは別に、以下のモチベーションの元、意識的にプライベートでの開発を行ってきました。
+ 技術スキルアップ 自分のプロダクトを運営したい 収益化できるかどうかの検証  プライベートの限られた時間の中で動作するものを作る必要があったため、 クオリティに関しては十分作り込めていない点がありますが、ご了承ください。
+Cube Solver 私の特技の一つに、「ルービックキューブの速解き)」があります。
+個人的に思い入れの深い趣味なので、より多くの人にルービックキューブの楽しさを知ってもらいたいと思い、このサービスを作るに至りました。 (「Cube Solver」に込めた思いについて)
+Web版とAndroidアプリ版があるので、それぞれご紹介します。
 Androidアプリ版 キューブ・ソルバー 〜解き方表示！誰でも簡単に六面完成〜
-Minimalist Diary ひたすらにシンプルな日記アプリが欲しかったので制作した。 単なるメモアプリではなく、あたかも日記を書いているような体験を味わえるという点がアピールポイント。 手書き風のフォントとペーパー風のデザインなので、アプリだけどだんだん愛着が沸いてくる。そんな日記アプリです。
-ミニマリストのための日記アプリ</description>
+  2016年7月頃(学部4年時)にリリース
+使用技術
+ Android Java openGL  Web版 ルービックキューブ攻略サイト「Cube Solver」
+  2018年8~10月頃に制作
+上記Androidアプリ版がそこそこダウンロードされていて、需要があることが確認できたため、 スキルアップも兼ねて作成。
+使用技術
+ Django React three.js Google App Engine Sinatra VPS, docker  キューブの解法計算コアロジックは、以前別で作ったsinatra APIサーバーに委譲している。
+成果 2020/02/16現在の数値
+ Androidアプリ  評価: 約4.2 評価数: 約2500件 累計ダウンロード数: 約20万件  web版  月間1万PV キューブ完成ボタンクリック件数合計: 6200件  わずかだが収益化にも成功した   関連: 収益化のためにおこなったこと</description>
     </item>
     
     <item>

@@ -94,28 +94,216 @@
 
     
 
-<p>主に趣味で公開しているサービスを紹介</p>
+<p>プライベートで開発した物をご紹介します。</p>
+
+<p>職歴や業務経験に関しては、<a href="/about/">こちらのページ</a>をご覧ください。</p>
+
+<p>会社の仕事とは別に、以下のモチベーションの元、意識的にプライベートでの開発を行ってきました。</p>
+
+<ul>
+<li>技術スキルアップ</li>
+<li>自分のプロダクトを運営したい</li>
+<li>収益化できるかどうかの検証</li>
+</ul>
+
+<p>プライベートの限られた時間の中で動作するものを作る必要があったため、
+クオリティに関しては十分作り込めていない点がありますが、ご了承ください。</p>
+
+<hr />
 
 <h2 id="cube-solver">Cube Solver</h2>
 
-<p>僕自身、スピードキューバーでもあるので、布教したい思いで、
-ルービックキューブの解法表示アプリを制作し、公開している。</p>
+<p>私の特技の一つに、「<a href="https://dikky.net/hobby/rubiks_cube-history/">ルービックキューブの速解き</a>)」があります。</p>
 
-<h4 id="webアプリ版">webアプリ版</h4>
+<p>個人的に思い入れの深い趣味なので、より多くの人にルービックキューブの楽しさを知ってもらいたいと思い、このサービスを作るに至りました。
+<small>(<a href="https://cube-solver.dikky.net/rbk_solver/author_message">「Cube Solver」に込めた思いについて</a>)</small></p>
 
-<p><a href="https://cube-solver.dikky.net/">ルービックキューブ攻略サイト「Cube Solver」</a></p>
+<p>Web版とAndroidアプリ版があるので、それぞれご紹介します。</p>
 
-<h4 id="androidアプリ版">Androidアプリ版</h4>
+<h3 id="androidアプリ版">Androidアプリ版</h3>
 
 <p><a href="https://play.google.com/store/apps/details?id=net.dikky.rbk_cube_solver">キューブ・ソルバー 〜解き方表示！誰でも簡単に六面完成〜</a></p>
 
+<figure><a href="https://play.google.com/store/apps/details?id=net.dikky.rbk_cube_solver">
+    <img src="/images/cube-solver-app-screenshot.png" height="480"/> </a>
+</figure>
+
+<p>2016年7月頃(学部4年時)にリリース</p>
+
+<p>使用技術</p>
+
+<ul>
+<li>Android</li>
+<li>Java</li>
+<li>openGL</li>
+</ul>
+
+<h3 id="web版">Web版</h3>
+
+<p><a href="https://cube-solver.dikky.net/">ルービックキューブ攻略サイト「Cube Solver」</a></p>
+
+<figure><a href="https://cube-solver.dikky.net/">
+    <img src="/images/cube-solver-screenshot.png" height="480"/> </a>
+</figure>
+
+<p>2018年8~10月頃に制作</p>
+
+<p>上記Androidアプリ版がそこそこダウンロードされていて、需要があることが確認できたため、
+スキルアップも兼ねて作成。</p>
+
+<p>使用技術</p>
+
+<ul>
+<li>Django</li>
+<li>React</li>
+<li>three.js</li>
+<li>Google App Engine</li>
+<li>Sinatra</li>
+<li>VPS, docker</li>
+</ul>
+
+<p>キューブの解法計算コアロジックは、以前別で作ったsinatra APIサーバーに委譲している。</p>
+
+<h3 id="成果">成果</h3>
+
+<p>2020/02/16現在の数値</p>
+
+<ul>
+<li>Androidアプリ
+
+<ul>
+<li>評価: 約4.2</li>
+<li>評価数: 約2500件</li>
+<li>累計ダウンロード数: 約20万件</li>
+</ul></li>
+<li>web版
+
+<ul>
+<li>月間1万PV</li>
+<li>キューブ完成ボタンクリック件数合計: 6200件</li>
+</ul></li>
+<li>わずかだが収益化にも成功した</li>
+</ul>
+
+<blockquote>
+<p><small>関連: <a href="https://dikky.net/programming/how-to-earn-1man-monthly-by-it-hobby-projects/">収益化のためにおこなったこと</a></small></p>
+</blockquote>
+
+<hr />
+
+<h2 id="魔法のキャンバス">魔法のキャンバス</h2>
+
+<p>当時画風変換で流行っていた<a href="https://apps.apple.com/jp/app/prisma-%E5%86%99%E7%9C%9F%E7%B7%A8%E9%9B%86%E8%80%85/id1122649984">Prisma</a>アプリを知って、</p>
+
+<p>「深層学習による画風変換技術」と「お絵かき」を掛け合せたら面白そうと考え、</p>
+
+<p>プロトタイピングした所ある程度動いたので、リリースしてみました。</p>
+
+<figure>
+    <img src="/images/magic_canvas_screenshot.png" height="480"/> 
+</figure>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E17P5UWPe4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">前描いた初音ミクを、Androidアプリ『魔法のキャンバス』で加工してみた結果！<br>ただの線画がここまで絵になるとは。。。<a href="https://t.co/5F129B8Noa">https://t.co/5F129B8Noa</a> <a href="https://twitter.com/hashtag/%E9%AD%94%E6%B3%95%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#魔法のキャンバス</a> <a href="https://twitter.com/hashtag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF?src=hash&amp;ref_src=twsrc%5Etfw">#初音ミク</a> <a href="https://twitter.com/hashtag/%E6%8F%8F%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F?src=hash&amp;ref_src=twsrc%5Etfw">#描いてみた</a> <a href="https://t.co/lXIyeMstkU">pic.twitter.com/lXIyeMstkU</a></p>&mdash; しょくぱにすと (@syokupanist) <a href="https://twitter.com/syokupanist/status/836951980182388736?ref_src=twsrc%5Etfw">March 1, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>コンセプト</p>
+
+<blockquote>
+<p>お絵かき機能によって、アプリ内で絵を描くことができます。
+自分で描いた絵を、いろんな画家の画風へと変化させられます。</p>
+
+<p>自分の絵が有名な画家が描いたみたいになるなんて、まるで画家気分♪</p>
+
+<p>複数の画家の画風をミックスしたり、画風を強くしたり、変換後の絵の上から自分で描き込めるといった機能があります。</p>
+
+<p>簡単に本格的な絵を、自由に作り出すことができます。</p>
+
+<p>試行錯誤しながら、自分だけのオリジナルアートワークを完成させましょう！</p>
+</blockquote>
+
+<p>2016年9月~2017年2月頃(学部４年時)　実装</p>
+
+<p>使用技術</p>
+
+<ul>
+<li>Android</li>
+<li>ruby on rails</li>
+<li>flask</li>
+<li>TensorFlow Serving</li>
+<li>tensorflow実装による画風変換モデル</li>
+<li>docker</li>
+<li>VPS</li>
+</ul>
+
+<p>モデル推論に必要なサーバープランの費用が高く、維持費がかかるため、公開を終了しました。</p>
+
+<hr />
+
+<h2 id="マストドンインスタンス運営">マストドンインスタンス運営</h2>
+
+<p>2017年4月~10月　マストドンインスタンス『哲学丼』を運営</p>
+
+<p><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Mastodonインスタンスを建ててみた。<br>日常でふと考えた哲学的な話題を共有しよう。『哲学どん』<a href="https://t.co/uQQsBZI8XW">https://t.co/uQQsBZI8XW</a> <a href="https://twitter.com/hashtag/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#マストドン</a> <a href="https://twitter.com/hashtag/mastodon?src=hash&amp;ref_src=twsrc%5Etfw">#mastodon</a> <a href="https://twitter.com/hashtag/%E5%93%B2%E5%AD%A6%E3%81%A9%E3%82%93?src=hash&amp;ref_src=twsrc%5Etfw">#哲学どん</a> <a href="https://twitter.com/hashtag/%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#インスタンス</a></p>&mdash; しょくぱにすと (@syokupanist) <a href="https://twitter.com/syokupanist/status/855757759496634368?ref_src=twsrc%5Etfw">April 22, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本日10/7(土)に、マストドン哲学インスタンス「哲学丼」を終了いたしました。<br>短い間でしたが、ありがとうございました。</p>&mdash; しょくぱにすと (@syokupanist) <a href="https://twitter.com/syokupanist/status/916503737358737408?ref_src=twsrc%5Etfw">October 7, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>独自機能を追加実装したりもしましたが、</p>
+
+<p>サーバー維持費がかかり、運営のモチベーションが低下したためクローズしました。</p>
+
+<hr />
+
+<h2 id="ブログ">ブログ</h2>
+
+<p>私の個人ブログです。</p>
+
+<blockquote>
+<p><a href="https://dikky.net">『れぞんでーとる』</a></p>
+</blockquote>
+
+<p>2019年11月頃制作</p>
+
+<p>HUGOを使って、独自テーマを実装しました。</p>
+
+<p>最小構成のみ実装しているので、機能が不足していたり、サイトデザインが十分に作り込めていません。</p>
+
+<p>以前WordPressで運用していたのをHUGOを用いて作り直したことで、生産性が向上しました。</p>
+
+<hr />
+
 <h2 id="minimalist-diary">Minimalist Diary</h2>
 
-<p>ひたすらにシンプルな日記アプリが欲しかったので制作した。
-単なるメモアプリではなく、あたかも日記を書いているような体験を味わえるという点がアピールポイント。
-手書き風のフォントとペーパー風のデザインなので、アプリだけどだんだん愛着が沸いてくる。そんな日記アプリです。</p>
+<p>シンプルな日記アプリが欲しかったのと、Go言語を使ってみたかったため、制作しました。</p>
+
+<figure>
+    <img src="/images/diary-app-screenshot.png" height="480"/> 
+</figure>
 
 <p><a href="https://diary.syokupanist.net/">ミニマリストのための日記アプリ</a></p>
+
+<p>コンセプト</p>
+
+<blockquote>
+<p>単なるメモアプリではなく、あたかも日記を書いているような体験を味わえるという点が魅力です。</p>
+
+<p>手書き風のフォントとペーパー風のデザインなので、アプリだけどだんだん愛着が沸いてくる。</p>
+
+<p>そんな日記アプリです。</p>
+</blockquote>
+
+<p>2019年9~10月頃実装</p>
+
+<p>使用技術</p>
+
+<ul>
+<li>Go言語</li>
+<li>NuxtJS</li>
+<li>PWA</li>
+<li>docker</li>
+</ul>
+
+<p>まだベータ版なので、宣伝しておらず、ユーザーはいません。</p>
 
   </article>
 </section>
