@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://syokupanist.net/projects/</loc>
+    <lastmod>2020-02-16T14:43:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syokupanist.net/</loc>
     <lastmod>2020-02-16T14:43:43+09:00</lastmod>
   </url>
   
@@ -23,10 +28,6 @@
   
   <url>
     <loc>https://syokupanist.net/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://syokupanist.net/</loc>
   </url>
   
 </urlset>

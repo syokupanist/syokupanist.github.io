@@ -1,11 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>しょくぱにすと</title>
     <link>https://syokupanist.net/</link>
     <description>Recent content on しょくぱにすと</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://syokupanist.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Feb 2020 14:43:43 +0900</lastBuildDate>
+    
+	<atom:link href="https://syokupanist.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Hobby Projects</title>
       <link>https://syokupanist.net/projects/</link>
@@ -16,19 +21,20 @@
 職歴や業務経験に関しては、こちらのページをご覧ください。
 以下のモチベーションの元、趣味で個人開発に取り組んできました。
  技術スキルアップ 自分のプロダクトを運営したい 収益化できるかどうかの検証  プライベートの限られた時間の中で実装する必要があったため、 クオリティに関しては十分作り込めていない点がありますが、予めご了承ください。
- Cube Solver 私の特技の一つに、「ルービックキューブの速解き)」があります。
+Cube Solver 私の特技の一つに、「ルービックキューブの速解き)」があります。
 個人的に思い入れの深い趣味で、
-より多くの人にルービックキューブの楽しさを知ってもらいたくて、このサービスを作りました。 (「Cube Solver」に込めた思いについて)Web版とAndroidアプリ版をそれぞれ開発し、リリースしております。
+より多くの人にルービックキューブの楽しさを知ってもらいたくて、このサービスを作りました。 (「Cube Solver」に込めた思いについて)
+Web版とAndroidアプリ版をそれぞれ開発し、リリースしております。
 Androidアプリ版 キューブ・ソルバー 〜解き方表示！誰でも簡単に六面完成〜
-2016年7月頃(学部4年時)にリリース
+  2016年7月頃(学部4年時)にリリース
 使用技術
  Android Java openGL  Web版 ルービックキューブ攻略サイト「Cube Solver」
-2018年8~10月頃に制作
+  2018年8~10月頃に制作
 上記Androidアプリ版は、多くのユーザー様に使っていただけているため、 スキルアップも兼ねてこのweb版も開発しました。
 使用技術
  Django React three.js Google App Engine Sinatra VPS, docker  以前別で作ったsinatra APIサーバー上のキューブ解法計算コアロジックを流用。
 成果 2020/02/16現在の数値
- Androidアプリ  評価: 約4.2 評価数: 約2500件 累計ダウンロード数: 約20万件   web版  月間1万PV キューブ完成ボタンクリック件数合計: 6200件   わずかだが収益化にも成功した   関連: 収益化のためにおこなったこと  Minimalist Diary オリジナルのシンプルな日記アプリが無性に欲しくなったため制作。</description>
+ Androidアプリ  評価: 約4.2 評価数: 約2500件 累計ダウンロード数: 約20万件  web版  月間1万PV キューブ完成ボタンクリック件数合計: 6200件  わずかだが収益化にも成功した   関連: 収益化のためにおこなったこと</description>
     </item>
     
     <item>
@@ -37,14 +43,14 @@ Androidアプリ版 キューブ・ソルバー 〜解き方表示！誰でも�
       <pubDate>Thu, 14 Nov 2019 23:20:07 +0900</pubDate>
       
       <guid>https://syokupanist.net/skill/</guid>
-      <description>2020年12月09日現在
+      <description> 2020年12月09日現在
 概要 ITエンジニアとして、技術を駆使し、ユーザーに価値を届けることに興味があります。
 技術に関しては、データ活用が強みであり、主にwebサービスにおいてデータ駆動開発を実践して参りました。
 あるプロジェクトでは、ユーザー行動ログデータを元に課題分析、施策提案を行い、KPIの継続的改善を行いました。 施策の実装では、サーバーサイド、フロントエンド、機械学習モデルの実装、など幅広い技術を扱ってきました。
 最近は、エンジニアとしてより技術の専門性を高めるべく、扱う技術分野を「データ活用技術」に焦点を当てています。 機械学習エンジニアとしては、大規模な推薦システム開発経験が複数あるのが現時点での強みであり、 さらに他の機械学習技術を習得するために、日々技術を磨いていおります。
 また、ユーザーに価値を届けることを、仕事では必ず意識しています。
 ただ物を作るだけでなく、いかに使ってもらって喜んでもらえるか、システムの先にいる実際のユーザーの笑顔を想像しながら、開発業務に取り組んでおります。 自らの技術に対する知的好奇心よりも、ユーザーの利益を優先することを、プロフェッショナルの心構えとして掲げております。
- 技術スキル 推薦システム開発  複数の大規模Webサービスにおける推薦システム開発経験  機械学習  画像系  画像分類、画像生成、画風変換   推薦システム  行列分解、ニューラルネットワーク、特徴量エンジニアリング   機械学習モデルのシステムへの組み込み  バッチ推論/リアルタイム推論の実装経験    データ駆動開発  ログデータの計測、分析 ABテストの実施  サーバーサイド  オブジェクト指向開発の経験 AWS, オンプレミス環境でのアプリケーション開発経験  フロントエンド  vue, reactによる機能実装経験   プログラミング言語 業務使用経験のある言語  Python 4.5年 PHP 3年 SQL 3年 JavaScript 2年 HTML/CSS 3年  その他、使用経験のある言語  Go 6ヶ月 Android 1年（学生時） Java 2年（学生時） c/c++ 少々（学生時） ruby 少々 haskell 入門のみ アセンブリ言語（学生時 講義で使用） verilog（学生時 講義で使用）   ミドルウェア  DB (mysql)  テーブル設計、クエリチューニング経験あり。   Docker  docker-composeやDockerfileを書いたり等。   AWS  業務使用経験 半年    </description>
+技術スキル 推薦システム開発  複数の大規模Webサービスにおける推薦システム開発経験  機械学習  画像系  画像分類、画像生成、画風変換  推薦システム  行列分解、ニューラルネットワーク、特徴量エンジニアリング  機械学習モデルのシステムへの組み込み  バッチ推論/リアルタイム推論の実装経験   データ駆動開発  ログデータの計測、分析 ABテストの実施  サーバーサイド  オブジェクト指向開発の経験 AWS, オンプレミス環境でのアプリケーション開発経験  フロントエンド  vue, reactによる機能実装経験  プログラミング言語 業務使用経験のある言語  Python 4.5年 PHP 3年 SQL 3年 JavaScript 2年 HTML/CSS 3年  その他、使用経験のある言語  Go 6ヶ月 Android 1年（学生時） Java 2年（学生時） c/c++ 少々（学生時） ruby 少々 haskell 入門のみ アセンブリ言語（学生時 講義で使用） verilog（学生時 講義で使用）  ミドルウェア  DB (mysql)  テーブル設計、クエリチューニング経験あり。  Docker  docker-composeやDockerfileを書いたり等。  AWS  業務使用経験 半年   </description>
     </item>
     
     <item>
@@ -53,7 +59,7 @@ Androidアプリ版 キューブ・ソルバー 〜解き方表示！誰でも�
       <pubDate>Thu, 14 Nov 2019 23:20:01 +0900</pubDate>
       
       <guid>https://syokupanist.net/about/</guid>
-      <description>2020年12月09日現在
+      <description> 2020年12月09日現在
 フリーランス ITエンジニアとして活動中。
 データ活用を強みとする機械学習エンジニアとして、複数の企業様において開発支援の実績を収めている。
 フリーランス活動経歴 推薦システム開発案件 (2020.7~現在) 某IT企業様にて、webサービスの推薦システム開発に携わる。
