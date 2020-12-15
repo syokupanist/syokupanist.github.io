@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>しょくぱにすと</title>
-    <link>https://syokupanist.net/</link>
+    <link>https://portfolio.syokupanist.net/</link>
     <description>Recent content on しょくぱにすと</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Nov 2019 23:20:07 +0900</lastBuildDate>
     
-	<atom:link href="https://syokupanist.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://portfolio.syokupanist.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Skill</title>
-      <link>https://syokupanist.net/skill/</link>
+      <link>https://portfolio.syokupanist.net/skill/</link>
       <pubDate>Thu, 14 Nov 2019 23:20:07 +0900</pubDate>
       
-      <guid>https://syokupanist.net/skill/</guid>
+      <guid>https://portfolio.syokupanist.net/skill/</guid>
       <description> 2020年12月09日現在
 スキル概要 ITエンジニアとして、技術を駆使しユーザーに価値を届けることに興味があります。
 技術に関しては、データ活用が強みであり、機械学習を活用した機能の開発や、データ駆動による機能開発に携わって参りました。
@@ -29,10 +29,10 @@
     
     <item>
       <title>About</title>
-      <link>https://syokupanist.net/about/</link>
+      <link>https://portfolio.syokupanist.net/about/</link>
       <pubDate>Thu, 14 Nov 2019 23:20:01 +0900</pubDate>
       
-      <guid>https://syokupanist.net/about/</guid>
+      <guid>https://portfolio.syokupanist.net/about/</guid>
       <description> 2020年12月09日現在
 フリーランス ITエンジニアとして活動中。
 データ活用を強みとする機械学習エンジニアとして、複数の企業様において開発支援の実績を収めている。
