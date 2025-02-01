@@ -1,30 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>しょくぱにすと</title>
     <link>https://portfolio.syokupanist.net/</link>
     <description>Recent content on しょくぱにすと</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2019 23:20:07 +0900</lastBuildDate>
-    
-	<atom:link href="https://portfolio.syokupanist.net/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://portfolio.syokupanist.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skill</title>
       <link>https://portfolio.syokupanist.net/skill/</link>
       <pubDate>Thu, 14 Nov 2019 23:20:07 +0900</pubDate>
       
       <guid>https://portfolio.syokupanist.net/skill/</guid>
-      <description> 2020年12月09日現在
-スキル概要 ITエンジニアとして、技術を駆使しユーザーに価値を届けることに興味があります。
-技術に関しては、データ活用が強みであり、機械学習を活用した機能の開発や、データ駆動による機能開発に携わって参りました。
-機械学習エンジニアとして、大規模なwebサービスにおける推薦システムの開発に複数案件携わった経験があります。 機械学習モデルを構築し、実サービスへモデルを組み込み、ユーザーに新しい価値を提供しました。 最近は、さらに付加価値の高い機能開発を行えるように、機械学習関連技術の勉強に励んでおります。
-また、あるプロジェクトでは、ユーザー行動ログデータを元に課題分析、施策提案を行い、KPIの継続的改善を行いました。 技術領域としては、サーバーサイド、フロントエンド、データ分析、機械学習モデル構築、など幅広く担当してきました。
-仕事のスタンスとして、ユーザーに価値を届けることを意識しています。
-いかに使って喜んでもらえるか、システムの先にいる実際のユーザーの笑顔を想像しながら、開発業務に取り組んでおります。 技術へのこだわりだけでなく、ユーザーの利益に重点を置くことを、プロフェッショナルの心構えとして掲げております。
-技術スキル 推薦システム開発  複数の大規模Webサービスにおける推薦システム開発経験  機械学習  画像系  画像分類、画像生成、画風変換  推薦システム  行列分解、ニューラルネットワーク、特徴量エンジニアリング  機械学習モデルのシステムへの組み込み  バッチ推論/リアルタイム推論の実装経験   データ駆動開発  ログデータの計測、分析 ABテストの実施  サーバーサイド  オブジェクト指向開発の経験 AWS, オンプレミス環境でのアプリケーション開発経験  フロントエンド  vue, reactによる機能実装経験  プログラミング言語 業務使用経験のある言語  Python 4.5年 PHP 3年 SQL 3年 JavaScript 2年 HTML/CSS 3年  その他、使用経験のある言語  Go 6ヶ月 Android 1年（学生時） Java 2年（学生時） c/c++ 少々（学生時） ruby 少々 haskell 入門のみ アセンブリ言語（学生時 講義で使用） verilog（学生時 講義で使用）  ミドルウェア  DB (mysql)  テーブル設計、クエリチューニング経験あり。  Docker  docker-composeやDockerfileを書いたり等。  AWS  業務使用経験 半年   </description>
+      <description></description>
     </item>
     
     <item>
@@ -33,17 +21,7 @@
       <pubDate>Thu, 14 Nov 2019 23:20:01 +0900</pubDate>
       
       <guid>https://portfolio.syokupanist.net/about/</guid>
-      <description> 2020年12月09日現在
-フリーランス ITエンジニアとして活動中。
-データ活用を強みとする機械学習エンジニアとして、複数の企業様において開発支援の実績を収めている。
-フリーランス活動経歴 推薦システム開発案件 (2020.7~現在) 某IT企業様にて、webサービスの推薦システム開発に携わる。
-推薦システムにおける機械学習モデルの複数運用、継続的に改善する仕組みを提案、実装。
-時系列データ分析案件 (2020.4~7) 某メーカー企業様にて、データサイエンティストとしてプロジェクトのPOCに携わる。
-時系列データ解析を用いて、生ログデータから傾向抽出を行い、業務へのデータ活用方法を提案。
-過去の経歴 ベンチャーIT企業勤務 ITエンジニア (2017.4 ~ 2020.3) webサービスの開発に従事。
-サーバーサイドエンジニア、フロントエンドエンジニア、機械学習エンジニアを経験。
-東京工業大学工学部情報工学科 (2013.4 ~ 2017.3) コンピュータアーキテクチャ、情報処理について学ぶ。
-資格  普通自動車免許 TOEICテスト 940点 統計検定2級  </description>
+      <description></description>
     </item>
     
   </channel>
